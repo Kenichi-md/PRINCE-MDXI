@@ -46,7 +46,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 `IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:23769xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 
-> **1. PAIR CODE SESSION ID**
+> **1. PAIR CODE SESSION ID kenichi-xd**
 
 <a href='https://princeweb.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
